@@ -34,7 +34,7 @@ A Streamlit-based web application for analyzing and visualizing climate data fro
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/nepal-climate-analysis.git
+git clone https://github.com/Rakup32/Climate_ML_app.git
 cd nepal-climate-analysis
 ```
 
@@ -121,6 +121,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 For any questions or feedback, please open an issue in the repository.
+https://github.com/Rakup32
 
 ---
 
