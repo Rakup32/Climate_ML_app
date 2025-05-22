@@ -39,12 +39,49 @@ def show_about():
     - Moving averages and trend lines
     - Anomaly detection
     
+    #### 3. Machine Learning Predictions
+    - Temperature forecasting using SARIMA and Random Forest models
+    - City-specific climate predictions
+    - Elevation-based impact analysis
+    - Model confidence metrics
+    
+    #### 4. Interactive Map Features
+    - Real-time temperature visualization
+    - Elevation data overlay
+    - City-specific markers with detailed information
+    - Customizable map layers
+    """)
+    
+    # Technical details section
+    st.markdown("""
+    ### Technical Details
+    
+    #### Data Sources
+    - World Bank Climate Data API
+    - Historical weather records
+    - Elevation data from NASA SRTM
+    
+    #### Models Used
+    - SARIMA for time series analysis
+    - Random Forest for non-linear patterns
+    - Ensemble methods for improved accuracy
+    
+    #### Technologies
+    - Python 3.8+
+    - Streamlit for web interface
+    - Pandas for data manipulation
+    - Plotly for interactive visualizations
+    - Folium for map rendering
+    """)
+    
+    # Contact section
+    st.markdown("""
     ### Contact
     For any questions or feedback, please contact the development team.
     """)
     
     # Footer
     st.markdown("---")
-    st.markdown("Created with ❤️ for Nepal Climate Analysis")
+    st.markdown("Version 1.0.0 | Last updated: 2025")
     
 
